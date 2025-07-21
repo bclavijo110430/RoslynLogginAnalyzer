@@ -1,0 +1,52 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{cs,csx,vb,vbx}]
+indent_style = space
+indent_size = 4
+
+[*.{json,js,jsx,ts,tsx,yml,yaml}]
+indent_style = space
+indent_size = 2
+
+# Logging Analyzer Configuration
+[*.cs]
+
+# Console.WriteLine usage - Error
+dotnet_diagnostic.LA0001.severity = error
+
+# Exception logging without details - Error
+dotnet_diagnostic.LA0002.severity = error
+
+# Sensitive information logging - Error
+dotnet_diagnostic.LA0003.severity = error
+
+# Incorrect log levels - Error
+dotnet_diagnostic.LA0004.severity = error
+
+# Missing structured logging parameters - Warning
+dotnet_diagnostic.LA0005.severity = warning
+
+# Suppress specific rules in certain contexts
+[*.{Generated,Designer}.cs]
+dotnet_diagnostic.LA0001.severity = none
+dotnet_diagnostic.LA0002.severity = none
+dotnet_diagnostic.LA0003.severity = none
+dotnet_diagnostic.LA0004.severity = none
+dotnet_diagnostic.LA0005.severity = none
+
+# Suppress in test files if needed
+[*.Tests.cs]
+dotnet_diagnostic.LA0005.severity = suggestion
+
+# Suppress in Program.cs and Startup.cs for console applications
+[Program.cs]
+dotnet_diagnostic.LA0001.severity = suggestion
+
+[Startup.cs]
+dotnet_diagnostic.LA0001.severity = suggestion 

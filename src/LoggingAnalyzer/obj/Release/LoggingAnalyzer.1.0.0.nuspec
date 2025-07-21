@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LoggingAnalyzer</id>
+    <version>1.0.0</version>
+    <authors>Your Name</authors>
+    <developmentDependency>true</developmentDependency>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>A Roslyn analyzer to detect and prevent bad logging practices in .NET applications</description>
+    <tags>roslyn analyzer logging code-analysis</tags>
+    <repository type="git" commit="fc2bcea0fb4e1cfb9e38ea3dbd97f81c11605810" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\bin\Release\net8.0\LoggingAnalyzer.dll" target="lib\net8.0\LoggingAnalyzer.dll" />
+    <file src="C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\bin\Release\net8.0\LoggingAnalyzer.dll" target="analyzers\dotnet\cs\LoggingAnalyzer.dll" />
+  </files>
+</package>

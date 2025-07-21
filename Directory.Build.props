@@ -1,0 +1,22 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningsAsErrors />
+    <WarningsNotAsErrors />
+    <AnalysisLevel>latest</AnalysisLevel>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <!--<PackageReadmeFile>README.md</PackageReadmeFile> -->
+    <!--<RepositoryUrl>https://github.com/yourusername/LoggingAnalyzer</RepositoryUrl> -->
+    <!--<RepositoryType>git</RepositoryType> -->
+    <PackageTags>roslyn;analyzer;logging;code-analysis;dotnet</PackageTags>
+    <!--<PackageProjectUrl>https://github.com/yourusername/LoggingAnalyzer</PackageProjectUrl> -->
+   <!-- <PackageIcon>icon.png</PackageIcon> -->
+  </PropertyGroup>
+</Project> 
