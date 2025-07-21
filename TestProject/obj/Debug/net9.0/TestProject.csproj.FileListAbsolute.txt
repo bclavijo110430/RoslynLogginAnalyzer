@@ -1,0 +1,11 @@
+C:\git\proyectos\LogginAnalayzer\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\proyectos\LogginAnalayzer\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\git\proyectos\LogginAnalayzer\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\git\proyectos\LogginAnalayzer\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\git\proyectos\LogginAnalayzer\TestProject\obj\Debug\net9.0\TestProject.csproj.AssemblyReference.cache
+C:\git\quiron\RoslynLogginAnalyzer\TestProject\obj\Debug\net9.0\TestProject.csproj.AssemblyReference.cache
+C:\git\quiron\RoslynLogginAnalyzer\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\quiron\RoslynLogginAnalyzer\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\git\quiron\RoslynLogginAnalyzer\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\git\quiron\RoslynLogginAnalyzer\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\git\quiron\RoslynLogginAnalyzer\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json

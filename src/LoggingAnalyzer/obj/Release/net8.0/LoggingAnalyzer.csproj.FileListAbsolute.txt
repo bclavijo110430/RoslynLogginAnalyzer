@@ -1,0 +1,13 @@
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\bin\Release\net8.0\LoggingAnalyzer.deps.json
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\bin\Release\net8.0\LoggingAnalyzer.dll
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\bin\Release\net8.0\LoggingAnalyzer.pdb
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.csproj.AssemblyReference.cache
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.AssemblyInfoInputs.cache
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.AssemblyInfo.cs
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.csproj.CoreCompileInputs.cache
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.sourcelink.json
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.dll
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\refint\LoggingAnalyzer.dll
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\LoggingAnalyzer.pdb
+C:\git\quiron\RoslynLogginAnalyzer\src\LoggingAnalyzer\obj\Release\net8.0\ref\LoggingAnalyzer.dll
